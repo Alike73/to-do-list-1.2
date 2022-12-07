@@ -84,8 +84,9 @@ body {
 }
 
 .animate-text {
+  margin-bottom: 20px;
   text-align: center;
-  font-size: clamp(22px, calc(var(--size)*1.7), 44px);
+  font-size: clamp(28px, calc(var(--size)*1.7), 44px);
   font-weight: 800;
 
   background-image: linear-gradient(to right, #ff85b8 0, #ff7bbe 10%, #ff71c5 20%, #ee66cc 30%, #d85dd2 40%, #be55d8 50%, #9d50de 60%, #744fe4 70%, #2f50ea 80%, #0053ee 90%, #0055f0 100%);
