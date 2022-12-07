@@ -48,6 +48,7 @@ export class Main extends Component {
     render() {
         return (
             <div className="container" onLoad={this.animate}>
+            
 
                 <div className="ToDoListApp">
                     <div className="animate-text">TO-DO LIST</div>
